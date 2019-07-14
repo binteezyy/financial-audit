@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'audit_accounts',
     'audit_app',
     'rest_framework',
+    'phonenumber_field',
 ]
 
 MIDDLEWARE = [

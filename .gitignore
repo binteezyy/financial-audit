@@ -12,4 +12,6 @@ financial_audit/db.sqlite3
 # *settings.py
 
 .env
+env/
 virtualenvironment/
+*desktop.ini
